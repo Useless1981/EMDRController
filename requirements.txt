@@ -1,1 +1,2 @@
 XInput-python
+xinput
